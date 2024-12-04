@@ -1,0 +1,23 @@
+/* .brewery-list table {
+    width: 100%; /* Ensures the table stretches to the container width */
+    table-layout: fixed; /* Makes the table respect the width of its cells */
+  }
+  
+  .brewery-list th, .brewery-list td {
+    text-align: left;
+    overflow: hidden; /* Prevents content from overflowing */
+    text-overflow: ellipsis; /* Adds an ellipsis (...) to text that cuts off */
+    white-space: nowrap; /* Keeps the content on a single line */
+  }
+  
+  .brewery-list th {
+    /* Set minimum widths for each column. Adjust as necessary based on your content and design preferences. */
+    min-width: 120px; /* Example minimum width */
+  }
+  
+  .brewery-list .name-column { min-width: 300px; }
+  .brewery-list .type-column { min-width: 150px; }
+  .brewery-list .city-column { min-width: 150px; }
+  .brewery-list .phone-column { min-width: 150px; }
+  .brewery-list .website-column { min-width: 200px; }
+   */
